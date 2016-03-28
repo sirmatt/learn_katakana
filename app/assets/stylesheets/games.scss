@@ -1,0 +1,30 @@
+// Place all the styles related to the Games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+[data-container="letter"] {
+  font-size: 10em;
+}
+
+[data-container="english"] {
+  font-size: 4em;
+  display: none;
+}
+
+.button-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+audio {
+  display: none;
+}
